@@ -3,7 +3,7 @@
        JS auxiliar para ser usado nas requisições, compilar o loagins.scss
        Icon de loading é gerado com CSS
        
-####### Mode de usar
+####### Modo de usar
 
 Ao iniciar uma request defina o loading para carregar:
 
