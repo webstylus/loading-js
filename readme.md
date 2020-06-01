@@ -11,4 +11,6 @@ Ao iniciar uma request defina o loading para carregar:
     
 Ao encerrar sua request defina o seguinte para finalizar:
 
-    - setLoading(false);           
+    - setLoading(false);      
+    
+Exemplo no index.html         
